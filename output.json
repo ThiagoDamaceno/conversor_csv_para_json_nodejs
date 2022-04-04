@@ -1,0 +1,146 @@
+[
+    {
+        "fullname": "John Appleseed",
+        "eid": "1121",
+        "groups": [
+            "Turma 1",
+            "Turma 2",
+            "Turma 3",
+            "Turma 6",
+            "Noturno"
+        ],
+        "addresses": [
+            {
+                "type": "email",
+                "tag": "Student",
+                "address": "john.appleseed@exemplo.com"
+            },
+            {
+                "type": "phone",
+                "tag": "Student",
+                "address": "kkkkkkk"
+            },
+            {
+                "type": "email",
+                "tag": "Parent",
+                "address": [
+                    "dad.appleseed@exemplo.com"
+                ]
+            },
+            {
+                "type": "phone",
+                "tag": "Parent",
+                "address": "(11) 99991-1234"
+            }
+        ],
+        "invisible": true,
+        "see_all": true
+    },
+    {
+        "fullname": "John Appleseed",
+        "eid": "1222",
+        "groups": [
+            "Turma 2",
+            "Turma 5",
+            "Turma 6",
+            "Diurno"
+        ],
+        "addresses": [
+            {
+                "type": "email",
+                "tag": "Student",
+                "address": "john.appleseed1@exemplo.com"
+            },
+            {
+                "type": "phone",
+                "tag": "Student",
+                "address": "(11) 99990-1235"
+            },
+            {
+                "type": "email",
+                "tag": "Parent",
+                "address": [
+                    "dad.appleseed1@exemplo",
+                    "dad.appleseed2@exemplo.com"
+                ]
+            },
+            {
+                "type": "phone",
+                "tag": "Parent",
+                "address": "(11) 99991-1235"
+            }
+        ],
+        "invisible": true,
+        "see_all": false
+    },
+    {
+        "fullname": "Mary Knight",
+        "eid": "1123",
+        "groups": [
+            "",
+            "",
+            ""
+        ],
+        "addresses": [
+            {
+                "type": "email",
+                "tag": "Student",
+                "address": "mary.knightexemplo.com"
+            },
+            {
+                "type": "phone",
+                "tag": "Student",
+                "address": "12 99990-1235"
+            },
+            {
+                "type": "email",
+                "tag": "Parent",
+                "address": [
+                    "dad.knight@exemplo.com"
+                ]
+            },
+            {
+                "type": "phone",
+                "tag": "Parent",
+                "address": ""
+            }
+        ],
+        "invisible": false,
+        "see_all": false
+    },
+    {
+        "fullname": "Jack Littleton",
+        "eid": "1124",
+        "groups": [
+            "Sala 1",
+            "",
+            ""
+        ],
+        "addresses": [
+            {
+                "type": "email",
+                "tag": "Student",
+                "address": "jack.littleton@exemplo.com"
+            },
+            {
+                "type": "phone",
+                "tag": "Student",
+                "address": "13 99990"
+            },
+            {
+                "type": "email",
+                "tag": "Parent",
+                "address": [
+                    ""
+                ]
+            },
+            {
+                "type": "phone",
+                "tag": "Parent",
+                "address": "(13) 99991-1236"
+            }
+        ],
+        "invisible": true,
+        "see_all": true
+    }
+]
